@@ -16,30 +16,30 @@ Aplicación Web ASP.NET MVC que permite realizar compras de libros.
 
 #### Algunas imágenes del sitio web en funcionamiento:
 
-![github-small](http://drive.google.com/uc?export=view&id=1Xt2MHJL3-seE0havd-_5zKAOW5tWlCZw)
+![Imagen 1](https://i.ibb.co/LvT99Gm/1.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1CKUpShzySKUDCRD4GIoxiswqddwhQ5w4)
+![Imagen 2](https://i.ibb.co/mq9ht8T/2.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1oZuODZbjYWcApeEsgIK7VCEq7uo7V2sH)
+![Imagen 3](https://i.ibb.co/Mp1FdMY/3.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1XCZNy4oyl_dhyS8x_x6KemUAHWg5ybfw)
+![Imagen 4](https://i.ibb.co/TYHgsMJ/4.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1jClAwbzPzyba0IIbWzFSmazGb__2LtzP)
+![Imagen 5](https://i.ibb.co/NxnX9xt/5.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1tPjvhPSDHPPcsV1s77wkqBcDBPUcEnTo)
+![Imagen 6](https://i.ibb.co/Zfbjk3g/6.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1hoNscw1ejCNbmYLLJR0hLegSK3_Wsa4E)
+![Imagen 7](https://i.ibb.co/g6FXrj4/7.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1_j0S79S0MfmAPLFrmmZ18j46AfUrUfo5)
+![Imagen 8](https://i.ibb.co/qym6YX0/8.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1C09HUyPLtZsu91cJQkyw763zTmhf9nSU)
+![Imagen 9](https://i.ibb.co/KxGxjQq/9.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1_xI2RQKnyK4skjrAAXfitxN7FJgz_wNf)
+![Imagen 10](https://i.ibb.co/VN21K1S/10.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1T1vAzLqQQ_hUxG7z1MGDYW7NuM39Q7E5)
+![Imagen 11](https://i.ibb.co/PNCxX5r/11.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1sv-A6JuN3skjjV3GX8bwL7YyU8BU5uOA)
+![Imagen 12](https://i.ibb.co/x17xPrk/12.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1gT56R1Yy7XlydVriIkVICtABTdv0ELj3)
+![Imagen 13](https://i.ibb.co/gJV5MZ0/13.png)
 
-![github-small](http://drive.google.com/uc?export=view&id=1gT56R1Yy7XlydVriIkVICtABTdv0ELj3)
+![Imagen 14](https://i.ibb.co/p3XJv8X/14.png)
