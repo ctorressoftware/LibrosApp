@@ -1,0 +1,77 @@
+﻿@model IEnumerable<LibrosApp.Models.Viewmodels.LibroViewModel>
+
+@{
+    ViewBag.Title = "Todos los libros";
+}
+
+<div class="container-fluid">
+    <h2>Inicio</h2>
+
+    <p>
+        @Html.ActionLink("Crear nuevo", "Create")
+    </p>
+
+    <div>
+        @Html.Partial("_FilterInfo")
+    </div>
+</div>
+
+<div id="table" class="container-fluid table-responsive">
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.ISBN)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.Nombre)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.Categoria)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.Autor)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.Unidades)
+                </th>
+                <th scope="col">
+                    @Html.DisplayNameFor(model => model.Precio)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+
+        @foreach (var item in Model)
+        {
+            <tbody>
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ISBN)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nombre)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Categoria)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Autor)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Unidades)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Precio)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Editar", "Edit", new { id = item.Id }, new { @class = "btn btn-primary" })
+                        @Html.ActionLink("Detalles", "Details", new { id = item.Id }, new { @class = "btn btn-secondary" })
+                        @Html.ActionLink("Eliminar", "Delete", new { id = item.Id }, new { @class = "btn btn-danger" })
+                    </td>
+                </tr>
+            </tbody>
+        }
+    </table>
+</div>

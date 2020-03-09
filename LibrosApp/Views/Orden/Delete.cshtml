@@ -1,0 +1,68 @@
+﻿@model LibrosApp.Models.Viewmodels.OrdenViewModel
+
+@{
+    ViewBag.Title = "Eliminar orden";
+}
+
+<div class="container" style="text-align: center;">
+
+    <h2>Eliminar</h2>
+
+    <h3>¿Seguro que quieres eliminarlo?</h3>
+    <div>
+        <h4>Orden</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Unidades)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Unidades)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ClienteId)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Cliente.Nombre)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.LibroId)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Libro.Nombre)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Descripcion)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Descripcion)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Monto)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Monto)
+            </dd>
+
+        </dl>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type = "submit" value="Eliminar" class="btn btn-primary" />
+                @Html.ActionLink("Volver", "Index", null, new { @class="btn btn-secondary" })
+            </div>
+        }
+    </div>
+</div>

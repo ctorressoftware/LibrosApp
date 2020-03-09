@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Error";
+}
+
+<div class="container" style="text-align: center;">
+    <h2>Ha ocurrido un error</h2>
+    <hr />
+    <p class="font-weight-normal">Ha ocurrido un error mientras se procesaba la solicitud.</p>
+    <p class="font-weight-bold">Detalles:</p>
+    <p class="font-weight-normal">@ViewBag.Error</p>
+    <br/>
+    <a onclick="atras" id="boton" name="boton" href="" class="btn btn-primary">Volver</a>
+</div>
+
+<script>
+
+    boton.addEventListener("click", function () {
+        window.history.back();
+    }, false);
+
+</script>
