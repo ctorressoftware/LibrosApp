@@ -110,22 +110,12 @@ namespace LibrosApp.Models.Repositories
                 Autor = model.Autor
             };
 
-            try
+            using (var db = new LibrosContext())
             {
-                using (var db = new LibrosContext())
-                {
-                    db.Libros.Attach(libro);
-                    db.Entry(libro).State = EntityState.Modified;
-                    db.SaveChanges();
-                }
-            }
-            catch (Exception ex)
-            {
-                string a = ex.Message;
-                string b = "xd estos errores conio";
-            }
-
-            
+                db.Libros.Attach(libro);
+                db.Entry(libro).State = EntityState.Modified;
+                db.SaveChanges();
+            } 
         }
 
         public void Dispose()
