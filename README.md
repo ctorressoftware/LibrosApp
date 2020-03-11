@@ -16,30 +16,30 @@ Aplicación Web ASP.NET MVC que permite realizar compras de libros.
 
 #### Algunas imágenes del sitio web en funcionamiento:
 
-![Imagen 1](https://i.ibb.co/LvT99Gm/1.png)
+![Imagen 1](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/1.PNG)
 
-![Imagen 2](https://i.ibb.co/mq9ht8T/2.png)
+![Imagen 2](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/2.PNG)
 
-![Imagen 3](https://i.ibb.co/Mp1FdMY/3.png)
+![Imagen 3](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/3.PNG)
 
-![Imagen 4](https://i.ibb.co/TYHgsMJ/4.png)
+![Imagen 4](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/4.PNG)
 
-![Imagen 5](https://i.ibb.co/NxnX9xt/5.png)
+![Imagen 5](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/5.PNG)
 
-![Imagen 6](https://i.ibb.co/Zfbjk3g/6.png)
+![Imagen 6](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/6.PNG)
 
-![Imagen 7](https://i.ibb.co/g6FXrj4/7.png)
+![Imagen 7](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/7.PNG)
 
-![Imagen 8](https://i.ibb.co/qym6YX0/8.png)
+![Imagen 8](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/8.PNG)
 
-![Imagen 9](https://i.ibb.co/KxGxjQq/9.png)
+![Imagen 9](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/9.PNG)
 
-![Imagen 10](https://i.ibb.co/VN21K1S/10.png)
+![Imagen 10](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/10.PNG)
 
-![Imagen 11](https://i.ibb.co/PNCxX5r/11.png)
+![Imagen 11](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/11.PNG)
 
-![Imagen 12](https://i.ibb.co/x17xPrk/12.png)
+![Imagen 12](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/12.PNG)
 
-![Imagen 13](https://i.ibb.co/gJV5MZ0/13.png)
+![Imagen 13](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/13.PNG)
 
-![Imagen 14](https://i.ibb.co/p3XJv8X/14.png)
+![Imagen 14](https://raw.githubusercontent.com/ctorressoftware/LibrosApp/master/GithubImages/14.PNG)
